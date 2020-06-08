@@ -1,3 +1,9 @@
+bin/*
+audio_data/*
+ciara_audio/*
+pyvenv.cfg
+
+
 .idea/
 *.pyc
 .DS_Store
