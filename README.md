@@ -1,1 +1,1 @@
-Forked from https://pypi.org/project/Resemblyzer/
+Forked from https://github.com/resemble-ai/Resemblyzer
